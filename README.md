@@ -16,11 +16,11 @@ After developing a table of data with retiring employees by title, we determined
 
 #### *Assistant Engineer
 
-Conversely, retiring employees with the entry level position of "Assistant Engineer" account for 1.9% of retiring employees. This finding might suggest that this small percentage of retiring employees haven't been with the company long enough to advance. It could also imply that these employees possess a more limited skill set than their mid and senior level counterparts. But why would Pewlett-Hackard continue to employee under-achieving personnel until their retirements? Perhaps this will highlight a subset of employees needing reevaluation to Bobby's supervisor.
+Conversely, retiring employees with the entry level position of "Assistant Engineer" account for 1.9% of retiring employees. This finding might suggest that this small percentage of retiring employees haven't been with the company long enough to advance. It could also imply that these employees possess a more limited skill set than their mid and senior level counterparts. But why would Pewlett-Hackard continue to employee under-achieving personnel until retirement? Perhaps this will highlight a subset of employees needing reevaluation to Bobby's supervisor.
 
 #### *Middle of the Pack
 
-Engineers (15.7%), Staff (13.5%), Technique Leaders (5.0%) and Managers (0.002%) account for the middle tier of Pewlett-Hackard roles, and represent a total of approximately 34.3% of Pewlett-Hackard's retiring workforce. Interesting to note: there are only two (2) lower-level managers among a total of 90,398 retiring empoloyees.
+Engineers (15.7%), Staff (13.5%), Technique Leaders (5.0%) and Managers (0.002%) account for the middle tier of Pewlett-Hackard roles, and represent a total of approximately 34.3% of Pewlett-Hackard's retiring workforce. Interesting to note: there are only two (2) lower-level managers among a total of 90,398 retiring employees.
 
 ### Mentorship Eligibility
 
@@ -38,7 +38,7 @@ There are 1,549 employees that are eligible to take part in the mentorship progr
 
 ### Trim the Fat
 
-My personal recommendation is to look further into why there are so many retiring Assistant Engineers. This position, as we understand it, is an entry level tech position within the company. I'd like to perform additional analysis to get a clearer picture of why these individuals haven't been promoted beyond this level. An executive more ruthless than Dan might consider axing these potential retirees before they pull the trigger. I, on the other hand, suggest enrolling a perentage of these Assistant Engineers into the mentorship program, where they would be given the opportunity to prove their worth to the organization as a prerequisite to retirement consideration/ideal retirement terms. Perhaps they can work alongside an appropriate mix of senior retiring staff to ensure the positions will be filled by adequate applicants, using the 'junior level retirees' as a litmus test of skill. If the engineer applicant is capable of better performance than already-employed assistant engineers at PEWLETT HACKARD, then dismissal prior to retirement might be considered. At least, the terms of their retirement might be lessened. This sounds harsh, but rewarding laziness with top-shelf retirement packages is akin to a professor fanning the class clown while feeding him grapes.
+My personal recommendation is to look further into why there are so many retiring Assistant Engineers. This position, as we understand it, is an entry level tech position within the company. I'd like to perform additional analysis to get a clearer picture of why these individuals haven't been promoted beyond this level. An executive more ruthless than Dan might consider axing these potential retirees before they pull the trigger. I, on the other hand, suggest enrolling a percentage of these Assistant Engineers into the mentorship program, where they would be given the opportunity to prove their worth to the organization as a prerequisite to retirement consideration/ideal retirement terms. Perhaps they can work alongside an appropriate mix of senior retiring staff to ensure the positions will be filled by adequate applicants, using the 'junior level retirees' as a litmus test of skill. If the engineer applicant is capable of better performance than already-employed assistant engineers at PEWLETT HACKARD, then dismissal prior to retirement might be considered. At least, the terms of their retirement might be reconsidered. This sounds harsh, but rewarding laziness with top-shelf retirement packages is akin to a professor fanning the class clown while feeding him grapes.
 
 My **QUERY** to highlight these employees would be the following:
 
@@ -48,4 +48,4 @@ As you'll see, I've even retained the mentorship program qualification of being 
 
 <img width="570" alt="RAE_Table" src="https://user-images.githubusercontent.com/92264929/145725707-e4760485-d775-4727-83b5-e17003da5c1e.png">
 
-My hope is that each of these employees will demonstrate their individual value to the company, and be rewarded by way of ideal retirement terms only after stepping up to the plate for a final assessment to show their worth. After all, Pewlett-Hackard only employees the world's greatest engineers.
+My hope is that each of these employees will demonstrate their individual value to the company, and be rewarded by way of ideal retirement terms only after stepping up to the plate for a final assessment to show their worth. After all, Pewlett-Hackard only employs the world's greatest engineers.
