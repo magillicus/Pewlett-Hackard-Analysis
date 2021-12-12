@@ -24,7 +24,7 @@ Engineers (15.7%), Staff (13.5%), Technique Leaders (5.0%) and Managers (0.002%)
 
 ### Mentorship Eligibility
 
-<img width="556" alt="Mentorship_Eligibility" src="https://user-images.githubusercontent.com/92264929/145722743-c02bb097-6907-4116-a46b-a703c2ef7107.png">
+<img width="557" alt="Mentorship_Eligibility" src="https://user-images.githubusercontent.com/92264929/145729071-4ff96561-68c2-44e4-b0d8-62e63d43ff4b.png">
 
 #### *Year of the Snake
 
