@@ -34,7 +34,7 @@ There are 1,549 employees that are eligible to take part in the mentorship progr
 
 ### Creme de la Creme?
 
-90,398 roles will potentially be affected as soon-to-retire employees at Pewlett-Hackard look towards ending their careers. That said, as there are only 1,549 individuals eligible to participate in the upcoming mentorship pilot, each mentor would be responsible for helping fill approximately 58 positions and bringing these new employees up to speed. I'm not sure how being born in 1965 aids in that quest, but I guess Pewlett-Hackard does.
+90,398 roles will potentially be affected as soon-to-retire employees at Pewlett-Hackard look towards ending their careers. That said, as there are only 1,549 individuals eligible to participate in the upcoming mentorship pilot, each mentor would be responsible for helping fill approximately 58 positions and bringing these new employees up to speed. I imagine this being a heavy lift. I'm not sure how being born in 1965 aids in that quest, but I guess Pewlett-Hackard does.
 
 ### Trim the Fat
 
