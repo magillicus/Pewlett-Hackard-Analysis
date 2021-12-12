@@ -39,3 +39,13 @@ There are 1,549 employees that are eligible to take part in the mentorship progr
 ### Trim the Fat
 
 My personal recommendation is to look further into why there are so many retiring Assistant Engineers. This position, as we understand it, is an entry level tech position within the company. I'd like to perform additional analysis to get a clearer picture of why these individuals haven't been promoted beyond this level. An executive more ruthless than Dan might consider axing these potential retirees before they pull the trigger. I, on the other hand, suggest enrolling a perentage of these Assistant Engineers into the mentorship program, where they would be given the opportunity to prove their worth to the organization as a prerequisite to retirement consideration/ideal retirement terms. Perhaps they can work alongside an appropriate mix of senior retiring staff to ensure the positions will be filled by adequate applicants, using the 'junior level retirees' as a litmus test of skill. If the engineer applicant is capable of better performance than already-employed assistant engineers at PEWLETT HACKARD, then dismissal prior to retirement might be considered. At least, the terms of their retirement might be lessened. This sounds harsh, but rewarding laziness with top-shelf retirement packages is akin to a professor fanning the class clown while feeding him grapes.
+
+My **QUERY** to highlight these employees would be the following:
+
+<img width="509" alt="Retiring_Assistant_Engineers_Query" src="https://user-images.githubusercontent.com/92264929/145725631-4727d256-f5aa-457e-9e19-129a1e351a3d.png">
+
+As you'll see, I've even retained the mentorship program qualification of being born in 1965. These 78 employees meet all the requirements of potential mentors while also holding a junior level position prior to retirement. Allow them to prove themselves. The below image of the resulting **TABLE** shows the first ten retiring employees to meet this criteria:
+
+<img width="570" alt="RAE_Table" src="https://user-images.githubusercontent.com/92264929/145725707-e4760485-d775-4727-83b5-e17003da5c1e.png">
+
+My hope is that each of these employees will demonstrate their individual value to the company, and be rewarded by way of ideal retirement terms only after stepping up to the plate for a final assessment to show their worth. After all, Pewlett-Hackard only employees the world's greatest engineers.
